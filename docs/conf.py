@@ -12,3 +12,4 @@ html_static_path = ['_static']
 html_js_files = [
     'chatbox.js',
 ]
+html_favicon = '_static/idrive-fav.png'
